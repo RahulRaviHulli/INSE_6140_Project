@@ -1,6 +1,6 @@
 # Ghidra Extension for Identification, Analysis, and Mitigation of OS Command Injection Vulnerabilities
 
-### Project Explanation Video Link: https://youtu.be/Bb7l_D6OxlU
+### Vulnerability Detection Explanation Video Link: https://youtu.be/Bb7l_D6OxlU
 
 ## GhidraCommandInjectionChecker
 
