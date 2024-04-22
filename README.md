@@ -1,4 +1,5 @@
-# GhidraCommandInjectionChecker
+# Ghidra Extension for Identification, Analysis, and Mitigation of OS Command Injection Vulnerabilities
+## GhidraCommandInjectionChecker
 
 Developed as part of INSE – 6140 – Malware Defenses and Application Security for the Winter 2024 semester under Dr. Makan Pourzandi, the GhidraCommandInjectionChecker is an innovative Ghidra extension. It aims to identify and analyze OS Command Injection vulnerabilities in binary codes, specifically targeting insecure functions that are often exploited in such security breaches.
 
